@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "547460780768",
+    "firebase_url": "https://fir-entries-2794c-default-rtdb.firebaseio.com",
+    "project_id": "fir-entries-2794c",
+    "storage_bucket": "fir-entries-2794c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547460780768:android:550dce08b8e853237ef685",
+        "android_client_info": {
+          "package_name": "com.example.firebaseentries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHT-P3VZ17pkqEjfUkmF9usesO4uTJRKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
